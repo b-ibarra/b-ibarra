@@ -19,4 +19,12 @@ To assess changes in the composition and structure of the gut microbiota in a mo
 Currently, the results of my research are undergoing the publication process. Meanwhile, you can explore a review on this topic that we authored last year, which was awarded 'Paper of the Month' in the Gut Microbiome Journal for June.  
 📍[Xenobiotics and dysbiosis review](https://www.cambridge.org/core/journals/gut-microbiome/article/microbial-gut-dysbiosis-induced-by-xenobiotics-in-model-organisms-and-the-relevance-of-experimental-criteria-a-minireview/6FE5B5B363A881BC9CD74AD59475B297)
 
+#### Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="20" height="20" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" width="20" height="20" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="20" height="20" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="20" height="20" >
+          
+          
+
+
 
