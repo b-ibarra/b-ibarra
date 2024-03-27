@@ -31,7 +31,7 @@ Since completing my B.Sc., I have been immersed in the world of genomic database
 
 #### How to contact me
 
-Feel free to explore my repositories and reach out with any questions, suggestions, or collaboration opportunities ✨. Your interest are appreciated! 🤓  
+Feel free to explore my repositories and reach out with any questions, suggestions, or collaboration opportunities ✨. Your interest is appreciated! 🤓  
 
 📩[Gmail](beatrizibrm@gmail.com)  
 👥[Linkedin](https://www.linkedin.com/in/beatrizibarra-biotechnology/)
