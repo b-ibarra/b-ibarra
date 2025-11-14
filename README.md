@@ -9,13 +9,13 @@
 🧋 In my free time, I enjoy reading, lifting weights, and I consider myself an avid iced coffee taster.
 
 #### About my work
-My work centers on designing and implementing pipelines that transform complex, raw data into actionable insights and well-structured information, driving informed decisions in healthcare. Particularly I specialize in:
-            🏥 Transforming unstructured clinical records into structured datasets suitable for model training and decision-making.
-            📄 Converting diverse data sources including handwritten documents, word files, PDFs, and other formats into analyzable datasets.
-            🔧 Designing ETL-based data pipelines with AI API integrations for automated extraction, ensuring efficient processing and quality control.
-            📊 Crating interactive dashboards for data visualization, enabling stakeholders to easily interpret complex information.
-            🔍 Performing advanced analytics using statistical methods to uncover correlations and generate meaningful insights from healthcare data.
-            🧬 Also, I usually work with gut microbiomes and microbial ecosystems to identify significant patterns that explain interactions within them.  
+My work centers on designing and implementing pipelines that transform complex, raw data into actionable insights and well-structured information, driving informed decisions in healthcare. Particularly I specialize in:  
+🏥 Transforming unstructured clinical records into structured datasets suitable for model training and decision-making.  
+📄 Converting diverse data sources including handwritten documents, word files, PDFs, and other formats into analyzable datasets.  
+🔧 Designing ETL-based data pipelines with AI API integrations for automated extraction, ensuring efficient processing and quality control.  
+📊 Creating interactive dashboards for data visualization, enabling stakeholders to easily interpret complex information.  
+🔍 Performing advanced analytics using statistical methods to uncover correlations and generate meaningful insights from healthcare data.  
+🧬 Also, I usually work with gut microbiomes and microbial ecosystems to identify significant patterns that explain interactions within them.  
 
 #### About my research
 In my PhD research, I explored how glyphosate, the most widely used pesticide globally 🌱, might impact vertebrates by disrupting their gut microbiota equilibrium.  
@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-o
 Feel free to explore my repos and reach out with any questions, suggestions, or collaboration opportunities ✨🤓  
 
 📩[Gmail](beatrizibrm@gmail.com)  
-👥[Linkedin](https://www.linkedin.com/in/beatrizibarra-biotechnology/)
+👥[Linkedin](https://www.linkedin.com/in/bibarra-data/)
           
           
 
