@@ -4,9 +4,10 @@
 
 
 #### About me
-🇲🇽 I am from Mazatlán, Sinaloa, Mx  
+🇲🇽 I'm from Mazatlán, Sinaloa, Mx  
 🎓 I hold a BSc in Biotechnology Engineering, a MSc in Population Genetics, and a PhD in Bioinformatics.  
-🧋 In my free time, I enjoy reading, lifting weights, and I consider myself an avid iced coffee taster.
+
+
 
 #### About my work
 My work centers on designing and implementing pipelines that transform complex, raw data into actionable insights and well-structured information, driving informed decisions in healthcare. Particularly I specialize in:  
